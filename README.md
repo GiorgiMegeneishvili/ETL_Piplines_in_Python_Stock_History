@@ -7,7 +7,7 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) pipeline 
 
 ## 🔧 Features
 
-- Extracts historical stock data (e.g., from Yahoo Finance or similar)
+- Extracts historical stock data (e.g., from (API) Finance )
 - Cleans and transforms raw stock data
 - Saves transformed data into SQL Server 
 - Modular Python codebase with reusable utility functions
